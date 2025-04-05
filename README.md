@@ -50,10 +50,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a7d4m/a7d4m/output/github-snake-dark.svg" />
   <!-- Light mode -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a7d4m/a7d4m/output/github-snake.svg" />
-  <!-- Default -->
-  <img alt="github-snake" src="https://raw.githubusercontent.com/a7d4m/a7d4m/output/github-snake.svg" />
   <!-- Github activity -->
-  <img alt="github-snake" src="https://raw.githubusercontent.com/a7d4m/a7d4m/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/a7d4m/a7d4m/output/github-snake.svg" />
 </picture>
 
 ###
