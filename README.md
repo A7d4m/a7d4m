@@ -45,13 +45,9 @@
 
 <br clear="both">
 
-<picture>
-  <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a7d4m/a7d4m/output/github-snake-dark.svg" />
-  <!-- Light mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a7d4m/a7d4m/output/github-snake.svg" />
-  <!-- Github activity -->
-  <img alt="github-snake" src="https://raw.githubusercontent.com/a7d4m/a7d4m/output/github-snake.svg" />
-</picture>
+<div align="center">
+    
+  ![snake gif](https://github.com/a7d4m/a7d4m/blob/output/github-snake-dark.svg)
+</div>
 
 ###
